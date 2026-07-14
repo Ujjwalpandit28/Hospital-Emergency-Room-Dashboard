@@ -56,15 +56,15 @@ The dashboard updates all visualizations dynamically based on the selected filte
 
 ## Key Insights
 
-- Total Patients: **513**
-- Average Wait Time: **36.32 Minutes**
-- Patient Satisfaction Score: **4.96 / 5**
-- Admission Rate: **52%**
-- Non-Admission Rate: **48%**
-- Delayed Patients: **62%**
-- On-Time Patients: **38%**
-- Male Patients: **53%**
-- Female Patients: **47%**
+- Total Patients
+- Average Wait Time
+- Patient Satisfaction Score
+- Admission Rate
+- Non-Admission Rate
+- Delayed Patients
+- On-Time Patients
+- Male Patients
+- Female Patients
 
 ---
 
