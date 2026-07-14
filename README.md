@@ -1,8 +1,10 @@
-# 🏥 Hospital Emergency Room Dashboard
+# Hospital Emergency Room Dashboard
 
 An interactive **Hospital Emergency Room Dashboard** built in **Microsoft Excel** to monitor and analyze emergency room performance. The dashboard provides insights into patient flow, waiting time, admission status, department referrals, gender distribution, patient satisfaction, and age-wise analysis.
 
-## 📌 Project Overview
+---
+
+## Project Overview
 
 This dashboard helps hospital management quickly analyze key emergency room metrics through an easy-to-use and interactive interface.
 
@@ -11,3 +13,44 @@ Users can filter data by:
 - 📆 Year
 
 The dashboard updates all visualizations dynamically based on the selected filters.
+
+---
+
+## Dashboard Features
+
+### KPIs
+- Total Number of Patients
+- Average Wait Time
+- Patient Satisfaction Score
+
+### Charts & Visualizations
+- Patient Attend Status (On-Time vs Delay)
+- Gender-wise Analysis
+- Admission Status
+- Patient Age Group Distribution
+- Department Referral Analysis
+
+### Interactive Filters
+- Month Slicer
+- Year Selector
+
+---
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Excel Formulas
+
+---
+
+## Dashboard Preview
+
+
+<img width="1813" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/37776bcd-447a-45bb-bbbb-95af928c6092" />
+
+
+---
