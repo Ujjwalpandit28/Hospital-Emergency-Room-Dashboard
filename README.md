@@ -52,5 +52,57 @@ The dashboard updates all visualizations dynamically based on the selected filte
 
 <img width="1813" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/37776bcd-447a-45bb-bbbb-95af928c6092" />
 
+---
+
+## Key Insights
+
+- Total Patients: **513**
+- Average Wait Time: **36.32 Minutes**
+- Patient Satisfaction Score: **4.96 / 5**
+- Admission Rate: **52%**
+- Non-Admission Rate: **48%**
+- Delayed Patients: **62%**
+- On-Time Patients: **38%**
+- Male Patients: **53%**
+- Female Patients: **47%**
 
 ---
+
+## Business Value
+
+This dashboard helps hospitals to:
+
+- Monitor emergency room performance
+- Identify patient wait-time issues
+- Track admission trends
+- Analyze department workload
+- Understand patient demographics
+- Improve operational decision-making
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- KPI Reporting
+- Interactive Reporting
+- Excel Automation
+- Data Visualization
+
+---
+
+## Author
+
+**Ujjwal Tiwari**
+
+Aspiring **MIS Executive | Data Analyst**
+
+### Skills
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Power BI (Learning)
+- Data Cleaning
+- Dashboard Development
